@@ -9,4 +9,3 @@ In this Shield some buffers with voltage dividers are used to adapt the use of 5
 ![3D board without ESP32](3D_SHIELD_WITHOUT_ESP32.jpg)
 
 ![Shield](SHIELD.jpg)
-
